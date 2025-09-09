@@ -97,46 +97,58 @@ Numbers & Counters,,,one person,,一人,Special reading; not いちにん,ひと
 Numbers & Counters,,,two people,,二人,Special reading; not ににん,ふたり,ふたり
 Numbers & Counters,,,~ people (counter),,〜人,Used for 3+ people,〜にん,〜にん
 Numbers & Counters,,,how old; what age,,何歳,,なんさい,なんさい
-Time & Date,Days of the week and time-related words.,0 - Vocab,Monday,,月曜日,,,
-Time & Date,,,Tuesday,,火曜日,,,
-Time & Date,,,Wednesday,,水曜日,,,
-Time & Date,,,Thursday,,木曜日,,,
-Time & Date,,,Friday,,金曜日,,,
-Time & Date,,,Saturday,,土曜日,,,
-Time & Date,,,Sunday,,日曜日,,,
-Time & Date,,,now,,今,,,
-Time & Date,,,today,,今日,,,
-Time & Date,,,tomorrow,,明日,,,
-Time & Date,,,yesterday,,昨日,,,
-Time & Date,,,every day,,毎日,,,
-Time & Date,,,this week,,今週,,,
-Time & Date,,,last week,,先週,,,
-Time & Date,,,next week,,来週,,,
-Time & Date,,,this year,,今年,,,
-Time & Date,,,last year,,去年,,,
-Time & Date,,,next year,,来年,,,
-Time & Date,,,o'clock / hour,,時,,,
-Time & Date,,,minute,,分,,,
-Time & Date,,,half (past),,半,,,
-Time & Date,,,AM (morning),,午前,,,
-Time & Date,,,PM (afternoon),,午後,,,
-Time & Date,,,1st (day of month),,ついたち,,,
-Time & Date,,,2nd (day of month),,ふつか,,,
-Time & Date,,,4th (day of month),,よっか,,,
-Time & Date,,,5th (day of month),,いつか,,,
-Time & Date,,,6th (day of month),,むいか,,,
-Time & Date,,,7th (day of month),,なのか,,,
-Time & Date,,,8th (day of month),,ようか,,,
-Time & Date,,,10th (day of month),,とおか,,,
-Time & Date,,,14th (day of month),,じゅうよっか,,,
-Time & Date,,,20th (day of month),,はつか,,,
+Time & Date,"Days of the week, months of the year, and other time-related words.",0 - Vocab,Monday,,月曜日,,げつようび,げつようび
+Time & Date,,,Tuesday,,火曜日,,かようび,かようび
+Time & Date,,,Wednesday,,水曜日,,すいようび,すいようび
+Time & Date,,,Thursday,,木曜日,,もくようび,もくようび
+Time & Date,,,Friday,,金曜日,,きんようび,きんようび
+Time & Date,,,Saturday,,土曜日,,どようび,どようび
+Time & Date,,,Sunday,,日曜日,,にちようび,にちようび
+Time & Date,,,1st (day of month),,一日,Special reading; not いちにち,ついたち,ついたち
+Time & Date,,,2nd (day of month),,二日,Special reading; not ににち,ふつか,ふつか
+Time & Date,,,4th (day of month),,四日,Special reading; not よんにち,よっか,よっか
+Time & Date,,,5th (day of month),,五日,Special reading; not ごにち,いつか,いつか
+Time & Date,,,6th (day of month),,六日,Special reading; not ろくにち,むいか,むいか
+Time & Date,,,7th (day of month),,七日,Special reading; not ななにち,なのか,なのか
+Time & Date,,,8th (day of month),,八日,Special reading; not はちにち,ようか,ようか
+Time & Date,,,10th (day of month),,十日,Special reading; not じゅうにち,とおか,とおか
+Time & Date,,,14th (day of month),,十四日,Special reading; not じゅうよんにち,じゅうよっか,じゅうよっか
+Time & Date,,,20th (day of month),,二十日,Special reading; not にじゅうにち,はつか,はつか
+Time & Date,,,January,,一月,,いちがつ,いちがつ
+Time & Date,,,February,,二月,,にがつ,にがつ
+Time & Date,,,March,,三月,,さんがつ,さんがつ
+Time & Date,,,April,,四月,,しがつ,しがつ
+Time & Date,,,May,,五月,,ごがつ,ごがつ
+Time & Date,,,June,,六月,,ろくがつ,ろくがつ
+Time & Date,,,July,,七月,,しちがつ,しちがつ
+Time & Date,,,August,,八月,,はちがつ,はちがつ
+Time & Date,,,September,,九月,,くがつ,くがつ
+Time & Date,,,October,,十月,,じゅうがつ,じゅうがつ
+Time & Date,,,November,,十一月,,じゅういちがつ,じゅういちがつ
+Time & Date,,,December,,十二月,,じゅうにがつ,じゅうにがつ
+Time & Date,,,now,,今,,いま,いま
+Time & Date,,,today,,今日,Special reading; not いまひ,きょう,きょう
+Time & Date,,,tomorrow,,明日,Special reading; not あきひ,あした,あした
+Time & Date,,,yesterday,,昨日,Special reading; not さくひ,きのう,きのう
+Time & Date,,,every day,,毎日,,まいにち,まいにち
+Time & Date,,,this week,,今週,,こんしゅう,こんしゅう
+Time & Date,,,last week,,先週,,せんしゅう,せんしゅう
+Time & Date,,,next week,,来週,,らいしゅう,らいしゅう
+Time & Date,,,this year,,今年,,ことし,ことし
+Time & Date,,,last year,,去年,,きょねん,きょねん
+Time & Date,,,next year,,来年,,らいねん,らいねん
+Time & Date,,,o'clock / hour,,時,,じ,じ
+Time & Date,,,minute,,分,Special reading; not ぶん,ふん,ふん
+Time & Date,,,half (past),,半,Used in time expressions like 三時半 (3:30),はん,はん
+Time & Date,,,AM (morning),,午前,,ごぜん,ごぜん
+Time & Date,,,PM (afternoon),,午後,,ごご,ごご
 Directions & Positions,Words for directions and relative positions.,0 - Vocab,up; above; on,,上,,,
 Directions & Positions,,,down; under; below,,下,,,
 Directions & Positions,,,left,,左,,,
 Directions & Positions,,,right,,右,,,
 Directions & Positions,,,front; before,,前,,,
 Directions & Positions,,,back; behind,,後ろ,,,
-Directions & Positions,,,inside; middle,,中,,,
+Directions & Positions,,,inside; middle,,中,,, 
 Directions & Positions,,,outside,,外,,,
 Directions & Positions,,,next to; neighboring,,隣,,,
 Directions & Positions,,,near; nearby,,近く,,,
