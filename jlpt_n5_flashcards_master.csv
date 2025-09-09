@@ -78,6 +78,12 @@ People & Family,,,grandfather,,祖父,Humble form for one's own grandfather,そ�
 People & Family,,,grandmother,,祖母,Humble form for one's own grandmother,そぼ,そぼ
 People & Family,,,siblings,,兄弟,Brothers; can refer to brothers and sisters together,きょうだい,きょうだい
 People & Family,,,sisters,,姉妹,,しまい,しまい
+People & Family,,,address,,住所,,じゅうしょ,じゅうしょ
+People & Family,,,age,,年齢,,ねんれい,ねんれい
+People & Family,,,birthday,,誕生日,,たんじょうび,たんじょうび
+People & Family,,,hobby,,趣味,,しゅみ,しゅみ
+People & Family,,,marriage,,結婚,,けっこん,けっこん
+People & Family,,,single; unmarried,,独身,,どくしん,どくしん
 Numbers & Counters,"Basic numbers and counting words (age, people, etc.).",0 - Vocab,zero,,零,,れい,れい
 Numbers & Counters,,,one,,一,,いち,いち
 Numbers & Counters,,,two,,二,,に,に
@@ -253,6 +259,13 @@ Basic Verbs,,,to get off,,降りる,,おりる,おりる
 Basic Verbs,,,to open (intransitive),,開く,Intransitive,あく,あく
 Basic Verbs,,,to close (intransitive),,閉まる,Intransitive,しまる,しまる
 Basic Verbs,,,to live/reside,,住む,,すむ,すむ
+Basic Verbs,,,to send,,送る,,おくる,おくる
+Basic Verbs,,,to lend,,貸す,,かす,かす
+Basic Verbs,,,to borrow,,借りる,,かりる,かりる
+Basic Verbs,,,to return (something),,返す,,かえす,かえす
+Basic Verbs,,,to call (someone),,呼ぶ,,よぶ,よぶ
+Basic Verbs,,,to look for,,探す,,さがす,さがす
+Basic Verbs,,,to find,,見つける,,みつける,みつける
 Basic Adjectives & Colors,Common adjectives and color words.,0 - Vocab,big; large,,大きい,,おおきい,おおきい
 Basic Adjectives & Colors,,,small; little,,小さい,,ちいさい,ちいさい
 Basic Adjectives & Colors,,,long,,長い,,ながい,ながい
@@ -295,6 +308,12 @@ Basic Adjectives & Colors,,,purple,,紫,Noun; use with の for adjective,むら�
 Basic Adjectives & Colors,,,pink,,ピンク,,,
 Basic Adjectives & Colors,,,orange,,オレンジ,,,
 Basic Adjectives & Colors,,,gray,,灰色,Noun; use with の for adjective,はいいろ,はいいろ
+Basic Adjectives & Colors,,,correct; right,,正しい,,ただしい,ただしい
+Basic Adjectives & Colors,,,different; wrong,,違う,,ちがう,ちがう
+Basic Adjectives & Colors,,,important; precious,,大切,Na-adjective,たいせつ,たいせつ
+Basic Adjectives & Colors,,,necessary; needed,,必要,Na-adjective,ひつよう,ひつよう
+Basic Adjectives & Colors,,,normal; ordinary,,普通,Na-adjective,ふつう,ふつう
+Basic Adjectives & Colors,,,special,,特別,Na-adjective,とくべつ,とくべつ
 Grammar & Particles,The building blocks of Japanese sentences. These particles mark the function of words.,1 - Grammar,topic marker,,は,,,
 Grammar & Particles,,,subject marker,,が,,,
 Grammar & Particles,,,object marker,,を,,,
@@ -382,6 +401,15 @@ Kanji Basics,,,Minute/Part,,分,Common readings: ふん、わける、ぶん,,
 Kanji Basics,,,Week,,週,Common readings: しゅう,しゅう
 Kanji Basics,,,Every,,毎,Common readings: まい,まい
 Kanji Basics,,,Day of week,,曜,Common readings: よう,よう
+Kanji Basics,,,Car; Vehicle,,車,Common readings: くるま、しゃ,,
+Kanji Basics,,,Station,,駅,Common readings: えき,,
+Kanji Basics,,,Shop; Store,,店,Common readings: みせ、てん,,
+Kanji Basics,,,Food; Eat,,食,Common readings: しょく、た、く,,
+Kanji Basics,,,Drink,,飲,Common readings: いん、の,,
+Kanji Basics,,,Buy,,買,Common readings: か、ばい,,
+Kanji Basics,,,Work; Move,,動,Common readings: どう、うご,,
+Kanji Basics,,,New,,新,Common readings: しん、あたら,,
+Kanji Basics,,,Old,,古,Common readings: こ、ふる,,
 Basic Grammar Patterns,Essential N5 grammar constructions with examples.,1 - Grammar,Verb polite present (〜ます),,〜ます,,,
 Basic Grammar Patterns,,,Verb polite negative (〜ません),,〜ません,,,
 Basic Grammar Patterns,,,Verb polite past (〜ました),,〜ました,,,
@@ -482,6 +510,11 @@ Question Words,,,how many,,いくつ,,,
 Question Words,,,how much,,いくら,,,
 Question Words,,,which kind,,どんな,,,
 Question Words,,,how much/how long (approx),,どのくらい/どれくらい,,どのくらい,どのくらい
+Question Words,,,question,,質問,,しつもん,しつもん
+Question Words,,,answer,,答え,,こたえ,こたえ
+Question Words,,,reason,,理由,,りゆう,りゆう
+Question Words,,,problem,,問題,,もんだい,もんだい
+Question Words,,,explanation,,説明,,せつめい,せつめい
 Counters,Common counters used at N5 level.,0 - Vocab,general counter (1–10),,〜つ,Native 1-10 counter,,
 Counters,,,long thin objects,,〜本,For bottles/pens etc.,ほん,ほん
 Counters,,,flat objects,,〜枚,For paper/plates etc.,まい,まい
@@ -532,6 +565,11 @@ Adverbs & Frequency,,,already,,もう,,,
 Adverbs & Frequency,,,not yet,,まだ,,,
 Adverbs & Frequency,,,not much (with negative),,あまり,,,
 Adverbs & Frequency,,,not at all (with negative),,全然,,ぜんぜん,ぜんぜん
+Adverbs & Frequency,,,but; however,,でも,,,
+Adverbs & Frequency,,,however; but,,しかし,,,
+Adverbs & Frequency,,,oneself,,自分,,じぶん,じぶん
+Adverbs & Frequency,,,if,,もし,,,
+Adverbs & Frequency,,,for example,,例えば,,たとえば,たとえば
 Hobbies & Leisure,Everyday hobbies and leisure activities.,0 - Vocab,movie,,映画,,えいが,えいが
 Hobbies & Leisure,,,music,,音楽,,おんがく,おんがく
 Hobbies & Leisure,,,reading,,読書,,どくしょ,どくしょ
