@@ -474,39 +474,39 @@ School & Office,,,company; firm,,会社,,かいしゃ,かいしゃ
 School & Office,,,company employee,,社員,,しゃいん,しゃいん
 School & Office,,,meeting; conference,,会議,,かいぎ,かいぎ
 School & Office,,,job; work,,仕事,,しごと,しごと
-Question Words,Core interrogatives for basic questions.,0 - Vocab,what,,何,,,
-Question Words,,,who,,誰,,,
+Question Words,Core interrogatives for basic questions.,0 - Vocab,what,,何,,なに、なん,なに、なん
+Question Words,,,who,,誰,,だれ,だれ
 Question Words,,,when,,いつ,,,
 Question Words,,,why,,どうして,,,
 Question Words,,,how many,,いくつ,,,
 Question Words,,,how much,,いくら,,,
 Question Words,,,which kind,,どんな,,,
 Question Words,,,how much/how long (approx),,どのくらい/どれくらい,,どのくらい,どのくらい
-Counters,Common counters used at N5 level.,0 - Vocab,general counter (1–10),,〜つ,Native 1–10 counter,,
-Counters,,,long thin objects,,〜本,For bottles/pens etc.,,
-Counters,,,flat objects,,〜枚,For paper/plates etc.,,
-Counters,,,small animals,,〜匹,For cats/dogs/fish etc.,,
-Counters,,,machines/vehicles,,〜台,For cars/machines,,
-Counters,,,occurrences/times,,〜回,Number of times,,
-Counters,,,books/volumes,,〜冊,For books/notebooks,,
-Counters,,,age (years old),,〜歳,Age in years,,
-Counters,,,floors (storeys),,〜階,Floor number,,
-Counters,,,months (duration),,〜か月,Number of months,,
-Counters,,,hours (duration),,〜時間,Number of hours,,
-Counters,,,days (duration/date),,〜日,Day(s) or day of month,,
-Counters,,,weeks (duration),,〜週間,Number of weeks,,
-Counters,,,small items (generic),,〜個,Generic small item counter,,
-Counters,,,yen (price),,〜円,Price counter,,
-Animals,Common animals and related words.,0 - Vocab,dog,,犬,,,
-Animals,,,cat,,猫,,,
-Animals,,,bird,,鳥,,,
+Counters,Common counters used at N5 level.,0 - Vocab,general counter (1–10),,〜つ,Native 1-10 counter,,
+Counters,,,long thin objects,,〜本,For bottles/pens etc.,ほん,ほん
+Counters,,,flat objects,,〜枚,For paper/plates etc.,まい,まい
+Counters,,,small animals,,〜匹,For cats/dogs/fish etc.,ひき,ひき
+Counters,,,machines/vehicles,,〜台,For cars/machines,だい,だい
+Counters,,,occurrences/times,,〜回,Number of times,かい,かい
+Counters,,,books/volumes,,〜冊,For books/notebooks,さつ,さつ
+Counters,,,age (years old),,〜歳,Age in years,さい,さい
+Counters,,,floors (storeys),,〜階,Floor number,かい,かい
+Counters,,,months (duration),,〜か月,Number of months,かげつ,かげつ
+Counters,,,hours (duration),,〜時間,Number of hours,じかん,じかん
+Counters,,,days (duration/date),,〜日,Day(s) or day of month; Common readings: にち、か,,
+Counters,,,weeks (duration),,〜週間,Number of weeks,しゅうかん,しゅうかん
+Counters,,,small items (generic),,〜個,Generic small item counter,こ,こ
+Counters,,,yen (price),,〜円,Price counter,えん,えん
+Animals,Common animals and related words.,0 - Vocab,dog,,犬,,いぬ,いぬ
+Animals,,,cat,,猫,,ねこ,ねこ
+Animals,,,bird,,鳥,,とり,とり
 Animals,,,rabbit,,うさぎ,,,
-Animals,,,cow,,牛,,,
-Animals,,,horse,,馬,,,
-Animals,,,pig,,豚,,,
-Animals,,,chicken,,鶏,,,
-Animals,,,insect/bug,,虫,,,
-Animals,,,animal,,動物,,,
+Animals,,,cow,,牛,,うし,うし
+Animals,,,horse,,馬,,うま,うま
+Animals,,,pig,,豚,,ぶた,ぶた
+Animals,,,chicken,,鶏,,にわとり,にわとり
+Animals,,,insect/bug,,虫,,むし,むし
+Animals,,,animal,,動物,,どうぶつ,どうぶつ
 Weather & Nature,Weather and basic nature vocabulary.,0 - Vocab,weather,,天気,,,
 Weather & Nature,,,sunny/clear,,晴れ,,,
 Weather & Nature,,,cloudy,,曇り,,,
