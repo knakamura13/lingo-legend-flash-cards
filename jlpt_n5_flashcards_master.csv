@@ -25,7 +25,7 @@ Common Questions & Requests,,,I came from ~.,,〜から来ました,Often used i
 Common Questions & Requests,,,What is this?,,これは何ですか,,これはなんですか,これはなんですか
 Common Questions & Requests,,,Where is the restroom?,,トイレはどこですか,,,
 Common Questions & Requests,,,How much is it?,,いくらですか,,,
-Common Questions & Requests,,,"This one, please.",Requesting an item,これおください,,,
+Common Questions & Requests,,,"This one, please.",Requesting an item,これをください,,,
 Common Questions & Requests,,,Please (do this).,,お願いします,Polite request,おねがいします,おねがいします
 Common Questions & Requests,,,I don't understand.,,分かりません,,わかりません,わかりません
 Common Questions & Requests,,,One more time,Asking to repeat,もう一度お願いします,,もういちどおねがいします,もういちどおねがいします
@@ -57,6 +57,9 @@ Demonstratives (Ko-so-a-do),,,like that (far); that way (far),,ああ,,,
 Demonstratives (Ko-so-a-do),,,how; in what way,,どう,,,
 People & Family,"Vocabulary for referring to people, family members, and professions.",0 - Vocab,I; me,,私,,わたし,わたし
 People & Family,,,you,,あなた,,,
+People & Family,,,he,,彼,,かれ,かれ
+People & Family,,,she,,彼女,,かのじょ,かのじょ
+People & Family,,,everyone,,みんな,,,
 People & Family,,,person,,人,,ひと,ひと
 People & Family,,,man,,男の人,,おとこのひと,おとこのひと
 People & Family,,,woman,,女の人,,おんなのひと,おんなのひと
@@ -76,6 +79,12 @@ People & Family,,,older brother,,お兄さん,Respectful/polite form for others'
 People & Family,,,(my) older brother,,兄,Humble form for one's own older brother,あに,あに
 People & Family,,,older sister,,お姉さん,Respectful/polite form for others' older sisters,おねえさん,おねえさん
 People & Family,,,(my) older sister,,姉,Humble form for one's own older sister,あね,あね
+People & Family,,,younger brother,,弟,,おとうと,おとうと
+People & Family,,,younger sister,,妹,,いもうと,いもうと
+People & Family,,,husband,,夫,,おっと,おっと
+People & Family,,,wife,,妻,,つま,つま
+People & Family,,,grandfather,,おじいさん,Polite/respectful form for others' grandfathers,おじいさん,おじいさん
+People & Family,,,grandmother,,おばあさん,Polite/respectful form for others' grandmothers,おばあさん,おばあさん
 People & Family,,,child; children,,子供,,こども,こども
 People & Family,,,parents,,両親,,りょうしん,りょうしん
 People & Family,,,grandfather,,祖父,Humble form for one's own grandfather,そふ,そふ
@@ -116,14 +125,17 @@ Time & Date,,,Saturday,,土曜日,,どようび,どようび
 Time & Date,,,Sunday,,日曜日,,にちようび,にちようび
 Time & Date,,,1st (day of month),,一日,Special reading; not いちにち,ついたち,ついたち
 Time & Date,,,2nd (day of month),,二日,Special reading; not ににち,ふつか,ふつか
+Time & Date,,,3rd (day of month),,三日,Special reading; not さんにち,みっか,みっか
 Time & Date,,,4th (day of month),,四日,Special reading; not よんにち,よっか,よっか
 Time & Date,,,5th (day of month),,五日,Special reading; not ごにち,いつか,いつか
 Time & Date,,,6th (day of month),,六日,Special reading; not ろくにち,むいか,むいか
 Time & Date,,,7th (day of month),,七日,Special reading; not ななにち,なのか,なのか
 Time & Date,,,8th (day of month),,八日,Special reading; not はちにち,ようか,ようか
+Time & Date,,,9th (day of month),,九日,Special reading; not きゅうにち,ここのか,ここのか
 Time & Date,,,10th (day of month),,十日,Special reading; not じゅうにち,とおか,とおか
 Time & Date,,,14th (day of month),,十四日,Special reading; not じゅうよんにち,じゅうよっか,じゅうよっか
 Time & Date,,,20th (day of month),,二十日,Special reading; not にじゅうにち,はつか,はつか
+Time & Date,,,24th (day of month),,二十四日,Special reading; not にじゅうよんにち,にじゅうよっか,にじゅうよっか
 Time & Date,,,January,,一月,,いちがつ,いちがつ
 Time & Date,,,February,,二月,,にがつ,にがつ
 Time & Date,,,March,,三月,,さんがつ,さんがつ
@@ -136,6 +148,12 @@ Time & Date,,,September,,九月,,くがつ,くがつ
 Time & Date,,,October,,十月,,じゅうがつ,じゅうがつ
 Time & Date,,,November,,十一月,,じゅういちがつ,じゅういちがつ
 Time & Date,,,December,,十二月,,じゅうにがつ,じゅうにがつ
+Time & Date,,,morning,,朝,,あさ,あさ
+Time & Date,,,daytime; noon,,昼,,ひる,ひる
+Time & Date,,,evening,,夕方,,ゆうがた,ゆうがた
+Time & Date,,,night,,夜,,よる,よる
+Time & Date,,,this morning,,今朝,,けさ,けさ
+Time & Date,,,tonight,,今晩,,こんばん,こんばん
 Time & Date,,,now,,今,,いま,いま
 Time & Date,,,today,,今日,Special reading; not いまひ,きょう,きょう
 Time & Date,,,tomorrow,,明日,Special reading; not あきひ,あした,あした
@@ -148,7 +166,7 @@ Time & Date,,,this year,,今年,,ことし,ことし
 Time & Date,,,last year,,去年,,きょねん,きょねん
 Time & Date,,,next year,,来年,,らいねん,らいねん
 Time & Date,,,o'clock / hour,,時,,じ,じ
-Time & Date,,,minute,,分,Special reading; not ぶん,ふん,ふん
+Time & Date,,,minute,,分,Irregulars: いっぷん、さんぷん、よんぷん、ろっぷん、はっぷん、じゅっぷん,ふん,ふん
 Time & Date,,,half (past),,半,Used in time expressions like 三時半 (3:30),はん,はん
 Time & Date,,,AM (morning),,午前,,ごぜん,ごぜん
 Time & Date,,,PM (afternoon),,午後,,ごご,ごご
@@ -306,23 +324,45 @@ Basic Verbs,,,to return (something),,返す,,かえす,かえす
 Basic Verbs,,,to call (someone),,呼ぶ,,よぶ,よぶ
 Basic Verbs,,,to look for,,探す,,さがす,さがす
 Basic Verbs,,,to find,,見つける,,みつける,みつける
+Basic Verbs,,,to exist (animate),,いる,For living things,,
+Basic Verbs,,,to exist (inanimate),,ある,For non-living things,,
+Basic Verbs,,,to need,,要る,,いる,いる
+Basic Verbs,,,to cost; take (time),,かかる,,かかる,かかる
+Basic Verbs,,,to turn on (lights/TV),,つける,,つける,つける
+Basic Verbs,,,to turn off; erase,,消す,,けす,けす
+Basic Verbs,,,to fall (rain/snow),,降る,,ふる,ふる
+Basic Verbs,,,to clear up (weather),,晴れる,,はれる,はれる
+Basic Verbs,,,to give (humble),,くれる,When someone gives to speaker,くれる,くれる
+Basic Verbs,,,to become,,なる,,なる,なる
+Basic Verbs,,,to turn (corner),,曲がる,,まがる,まがる
+Basic Verbs,,,to cross (street/bridge),,渡る,,わたる,わたる
 Basic Adjectives & Colors,Common adjectives and color words.,0 - Vocab,big; large,,大きい,,おおきい,おおきい
 Basic Adjectives & Colors,,,small; little,,小さい,,ちいさい,ちいさい
 Basic Adjectives & Colors,,,long,,長い,,ながい,ながい
 Basic Adjectives & Colors,,,short (length),,短い,,みじかい,みじかい
 Basic Adjectives & Colors,,,tall; high; expensive,,高い,,たかい,たかい
+Basic Adjectives & Colors,,,cheap; inexpensive,,安い,,やすい,やすい
 Basic Adjectives & Colors,,,low; short (height),,低い,,ひくい,ひくい
+Basic Adjectives & Colors,,,close; near,,近い,,ちかい,ちかい
+Basic Adjectives & Colors,,,far,,遠い,,とおい,とおい
 Basic Adjectives & Colors,,,new,,新しい,,あたらしい,あたらしい
 Basic Adjectives & Colors,,,old (not for people),,古い,,ふるい,ふるい
 Basic Adjectives & Colors,,,good,,いい / よい,,,
 Basic Adjectives & Colors,,,bad,,悪い,,わるい,わるい
 Basic Adjectives & Colors,,,interesting; amusing,,面白い,,おもしろい,おもしろい
+Basic Adjectives & Colors,,,boring; uninteresting,,つまらない,,,
+Basic Adjectives & Colors,,,delicious; tasty,,美味しい,,おいしい,おいしい
 Basic Adjectives & Colors,,,fun; enjoyable,,楽しい,,たのしい,たのしい
+Basic Adjectives & Colors,,,many; much; a lot,,多い,,おおい,おおい
+Basic Adjectives & Colors,,,few; little,,少ない,,すくない,すくない
 Basic Adjectives & Colors,,,busy,,忙しい,,いそがしい,いそがしい
 Basic Adjectives & Colors,,,pretty; clean,,きれい,,,
 Basic Adjectives & Colors,,,healthy; energetic; fine,,元気,Na-adjective,げんき,げんき
 Basic Adjectives & Colors,,,quiet,,静か,Na-adjective,しずか,しずか
 Basic Adjectives & Colors,,,famous,,有名,Na-adjective,ゆうめい,ゆうめい
+Basic Adjectives & Colors,,,like; favorite,,好き,Na-adjective,すき,すき
+Basic Adjectives & Colors,,,skilled; good at,,上手,Na-adjective,じょうず,じょうず
+Basic Adjectives & Colors,,,unskilled; bad at,,下手,Na-adjective,へた,へた
 Basic Adjectives & Colors,,,convenient,,便利,Na-adjective,べんり,べんり
 Basic Adjectives & Colors,,,easy; simple,,簡単,Na-adjective,かんたん,かんたん
 Basic Adjectives & Colors,,,difficult; hard,,難しい,,むずかしい,むずかしい
@@ -356,7 +396,7 @@ Basic Adjectives & Colors,,,normal; ordinary,,普通,Na-adjective,ふつう,ふ�
 Basic Adjectives & Colors,,,special,,特別,Na-adjective,とくべつ,とくべつ
 Basic Adjectives & Colors,,,happy,,嬉しい,,うれしい,うれしい
 Basic Adjectives & Colors,,,sad,,悲しい,,かなしい,かなしい
-Basic Adjectives & Colors,,,angry,,怒った,,おこった,おこった
+Basic Adjectives & Colors,,,angry,,怒っている,,おこっている,おこっている
 Basic Adjectives & Colors,,,worried,,心配,,しんぱい,しんぱい
 Basic Adjectives & Colors,,,surprised,,びっくりした,,,
 Basic Adjectives & Colors,,,excited,,興奮した,,こうふんした,こうふんした
@@ -376,6 +416,8 @@ Grammar & Particles,,,"connective marker (and, with)",,と,,,
 Grammar & Particles,,,question marker,,か,,,
 Grammar & Particles,,,be-verb / copula,,です,,,
 Grammar & Particles,,,polite verb ending,,ます,,,
+Grammar & Particles,,,also; than,,より,Also used in comparisons: AよりB,,
+Grammar & Particles,,,non-exhaustive and,,や,A や B (and other things),,
 Kanji Basics,Introduces fundamental N5 kanji with their meanings and common readings.,3 - Script,Sun; Day; Japan,,日,Common readings: にち、ひ、か,,
 Kanji Basics,,,Moon; Month,,月,Common readings: つき、がつ,,
 Kanji Basics,,,Fire,,火,Common readings: ひ、か,,
@@ -476,6 +518,18 @@ Kanji Basics,,,Sky; Empty,,空,Common readings: そら、くう、から,,
 Kanji Basics,,,Flower,,花,Common readings: はな、か,,
 Kanji Basics,,,Fish,,魚,Common readings: さかな、ぎょ,,
 Kanji Basics,,,Early; Fast,,早,Common readings: はやい、そう,,
+Kanji Basics,,,Heaven; Sky,,天,Common readings: てん、あま,,
+Kanji Basics,,,Rice Field,,田,Common readings: た、でん,,
+Kanji Basics,,,White,,白,Common readings: しろ、はく、しら,,
+Kanji Basics,,,Red,,赤,Common readings: あか、せき,,
+Kanji Basics,,,Blue,,青,Common readings: あお、せい,,
+Kanji Basics,,,Cow,,牛,Common readings: うし、ぎゅう,,
+Kanji Basics,,,Dog,,犬,Common readings: いぬ、けん,,
+Kanji Basics,,,Ear,,耳,Common readings: みみ、じ,,
+Kanji Basics,,,Listen; Ask,,聞,Common readings: きく、ぶん,,
+Kanji Basics,,,Evening,,夕,Common readings: ゆう、せき,,
+Kanji Basics,,,Forest,,林,Common readings: はやし、りん,,
+Kanji Basics,,,Snow,,雪,Common readings: ゆき、せつ,,
 Basic Grammar Patterns,Essential N5 grammar constructions with examples.,1 - Grammar,Verb polite present (〜ます),,〜ます,,,
 Basic Grammar Patterns,,,Verb polite negative (〜ません),,〜ません,,,
 Basic Grammar Patterns,,,Verb polite past (〜ました),,〜ました,,,
@@ -507,6 +561,14 @@ Basic Grammar Patterns,,,Invitation (〜ませんか),,〜ませんか,,,
 Basic Grammar Patterns,,,Reason (〜から),,〜から,Because; sentence + から,,
 Basic Grammar Patterns,,,Sentence ending (〜ね),,〜ね,Seeking agreement/confirmation,,
 Basic Grammar Patterns,,,Sentence ending (〜よ),,〜よ,Emphasis/informing,,
+Basic Grammar Patterns,,,Prohibition (〜てはいけません),,〜てはいけません,Must not do; te-form + はいけません,,
+Basic Grammar Patterns,,,Negative request (〜ないでください),,〜ないでください,Please don't do; nai-form + でください,,
+Basic Grammar Patterns,,,When (〜とき),,〜とき,When X happens; dictionary/ta-form + とき,とき,とき
+Basic Grammar Patterns,,,After doing (〜てから),,〜てから,After doing X; te-form + から,,
+Basic Grammar Patterns,,,Comparison (AよりBのほうが〜),,AよりBのほうが〜,B is more ~ than A,,
+Basic Grammar Patterns,,,Become (〜になる),,〜になる,Become X; noun/na-adj + になる,,
+Basic Grammar Patterns,,,Become (i-adj〜くなる),,〜くなる,Become X; i-adj stem + くなる,,
+Basic Grammar Patterns,,,Want a thing (〜がほしい),,〜がほしい,Want a noun; noun + がほしい,ほしい,ほしい
 Body & Health,Body parts and basic health-related terms.,0 - Vocab,body,,体,,からだ,からだ
 Body & Health,,,head,,頭,,あたま,あたま
 Body & Health,,,eye,,目,,め,め
@@ -623,6 +685,16 @@ Question Words,,,reason,,理由,,りゆう,りゆう
 Question Words,,,problem,,問題,,もんだい,もんだい
 Question Words,,,explanation,,説明,,せつめい,せつめい
 Counters,Common counters used at N5 level.,0 - Vocab,general counter (1–10),,〜つ,Native 1-10 counter,,
+Counters,,,one thing,,ひとつ,Native counter for one item,,
+Counters,,,two things,,ふたつ,Native counter for two items,,
+Counters,,,three things,,みっつ,Native counter for three items,,
+Counters,,,four things,,よっつ,Native counter for four items,,
+Counters,,,five things,,いつつ,Native counter for five items,,
+Counters,,,six things,,むっつ,Native counter for six items,,
+Counters,,,seven things,,ななつ,Native counter for seven items,,
+Counters,,,eight things,,やっつ,Native counter for eight items,,
+Counters,,,nine things,,ここのつ,Native counter for nine items,,
+Counters,,,ten things,,とお,Native counter for ten items,,
 Counters,,,long thin objects,,〜本,For bottles/pens etc.,ほん,ほん
 Counters,,,flat objects,,〜枚,For paper/plates etc.,まい,まい
 Counters,,,small animals,,〜匹,For cats/dogs/fish etc.,ひき,ひき
@@ -674,7 +746,7 @@ Weather & Nature,,,river,,川,,かわ,かわ
 Weather & Nature,,,sea/ocean,,海,,うみ,うみ
 Weather & Nature,,,forest,,森,,もり,もり
 Weather & Nature,,,flower,,花,,はな,はな
-Weather & Nature,,,humid,,湿った,,しめった,しめった
+Weather & Nature,,,humid,,蒸し暑い,,むしあつい,むしあつい
 Weather & Nature,,,forecast,,天気予報,,てんきよほう,てんきよほう
 Weather & Nature,,,temperature,,気温,,きおん,きおん
 Weather & Nature,,,degrees,,度,,ど,ど
@@ -689,6 +761,7 @@ Adverbs & Frequency,,,usually,,たいてい,,,
 Adverbs & Frequency,,,sometimes,,時々,,ときどき,ときどき
 Adverbs & Frequency,,,occasionally,,たまに,,,
 Adverbs & Frequency,,,a little/a bit,,少し,,すこし,すこし
+Adverbs & Frequency,,,a little (casual),,ちょっと,,,
 Adverbs & Frequency,,,a lot/many,,たくさん,,,
 Adverbs & Frequency,,,very,,とても,,,
 Adverbs & Frequency,,,really/very,,すごく,,,
@@ -700,6 +773,9 @@ Adverbs & Frequency,,,but; however,,でも,,,
 Adverbs & Frequency,,,however; but,,しかし,,,
 Adverbs & Frequency,,,therefore; so,,だから,,,
 Adverbs & Frequency,,,and then; so,,それで,,,
+Adverbs & Frequency,,,and; and then,,そして,,,
+Adverbs & Frequency,,,and then; after that,,それから,,,
+Adverbs & Frequency,,,probably; maybe,,たぶん,,,
 Adverbs & Frequency,,,oneself,,自分,,じぶん,じぶん
 Adverbs & Frequency,,,if,,もし,,,
 Adverbs & Frequency,,,for example,,例えば,,たとえば,たとえば
@@ -739,19 +815,12 @@ Shopping & Money,,,money,,お金,,おかね,おかね
 Shopping & Money,,,stamp,,切手,,きって,きって
 Technology & Communication,Essential vocabulary for modern digital life and communication.,0 - Vocab,internet,,インターネット,,,
 Technology & Communication,,,email,,メール,,,
-Technology & Communication,,,website,,ウェブサイト,,,
 Technology & Communication,,,smartphone,,スマートフォン,,,
-Technology & Communication,,,app,,アプリ,,,
-Technology & Communication,,,WiFi,,ワイファイ,,,
-Technology & Communication,,,password,,パスワード,,,
-Technology & Communication,,,download,,ダウンロード,,,
-Technology & Communication,,,upload,,アップロード,,,
 Technology & Communication,,,file,,ファイル,,,
 Technology & Communication,,,save,,保存,,ほぞん,ほぞん
 Technology & Communication,,,print,,印刷,,いんさつ,いんさつ
 Technology & Communication,,,message,,メッセージ,,,
 Technology & Communication,,,call,,電話をかける,,でんわをかける,でんわをかける
-Technology & Communication,,,battery,,バッテリー,,,
 Daily Activities & Routines,Common daily actions and routines for everyday life.,0 - Vocab,brush teeth,,歯を磨く,,はをみがく,はをみがく
 Daily Activities & Routines,,,take shower,,シャワーを浴びる,,シャワーをあびる,シャワーをあびる
 Daily Activities & Routines,,,get dressed,,服を着る,,ふくをきる,ふくをきる
