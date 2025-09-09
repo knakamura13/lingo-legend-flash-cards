@@ -91,6 +91,8 @@ People & Family,,,grandfather,,祖父,Humble form for one's own grandfather,そ�
 People & Family,,,grandmother,,祖母,Humble form for one's own grandmother,そぼ,そぼ
 People & Family,,,siblings,,兄弟,Brothers; can refer to brothers and sisters together,きょうだい,きょうだい
 People & Family,,,sisters,,姉妹,,しまい,しまい
+People & Family,,,uncle,,叔父,,おじ,おじ
+People & Family,,,aunt,,叔母,,おば,おば
 People & Family,,,address,,住所,,じゅうしょ,じゅうしょ
 People & Family,,,age,,年齢,,ねんれい,ねんれい
 People & Family,,,birthday,,誕生日,,たんじょうび,たんじょうび
@@ -404,6 +406,8 @@ Basic Adjectives & Colors,,,tired,,疲れた,,つかれた,つかれた
 Basic Adjectives & Colors,,,sleepy,,眠い,,ねむい,ねむい
 Basic Adjectives & Colors,,,hungry,,お腹がすいた,,おなかがすいた,おなかがすいた
 Basic Adjectives & Colors,,,thirsty,,のどが渇いた,,のどがかわいた,のどがかわいた
+Basic Adjectives & Colors,,,dangerous,,危険,Na-adjective,きけん,きけん
+Basic Adjectives & Colors,,,safe,,安全,Na-adjective,あんぜん,あんぜん
 Grammar & Particles,The building blocks of Japanese sentences. These particles mark the function of words.,1 - Grammar,topic marker,,は,,,
 Grammar & Particles,,,subject marker,,が,,,
 Grammar & Particles,,,object marker,,を,,,
@@ -585,6 +589,9 @@ Body & Health,,,hair,,髪,,かみ,かみ
 Body & Health,,,blood,,血,,ち,ち
 Body & Health,,,bone,,骨,,ほね,ほね
 Body & Health,,,fever,,熱,,ねつ,ねつ
+Body & Health,,,headache,,頭痛,,ずつう,ずつう
+Body & Health,,,cough,,咳,,せき,せき
+Body & Health,,,injury,,怪我,,けが,けが
 Clothing & Personal Items,Basic clothing items and personal belongings.,0 - Vocab,clothes,,服,,ふく,ふく
 Clothing & Personal Items,,,shirt,,シャツ,,,
 Clothing & Personal Items,,,pants; trousers,,ズボン,,,
@@ -659,6 +666,9 @@ School & Office,,,marker,,マーカー,,,
 School & Office,,,calculator,,電卓,,でんたく,でんたく
 School & Office,,,folder,,ファイル,,,
 School & Office,,,whiteboard,,ホワイトボード,,,
+School & Office,,,university,,大学,,だいがく,だいがく
+School & Office,,,department,,学部,,がくぶ,がくぶ
+School & Office,,,specialty; major,,専門,,せんもん,せんもん
 Question Words,Core interrogatives for basic questions.,0 - Vocab,what,,何,,なに、なん,なに、なん
 Question Words,,,who,,誰,,だれ,だれ
 Question Words,,,when,,いつ,,,
@@ -705,6 +715,8 @@ Counters,,,minutes (duration),,〜分間,,〜ふんかん,〜ふんかん
 Counters,,,seconds,,〜秒,,〜びょう,〜びょう
 Counters,,,degrees (angle),,〜度,,〜ど,〜ど
 Counters,,,times/occurrences,,〜度,,〜ど,〜ど
+Counters,,,number; order,,〜番,For numbering (1st, 2nd, etc.),〜ばん,〜ばん
+Counters,,,ordinal numbers,,〜番目,For ordinal position (1st one, 2nd one, etc.),〜ばんめ,〜ばんめ
 Animals,Common animals and related words.,0 - Vocab,dog,,犬,,いぬ,いぬ
 Animals,,,cat,,猫,,ねこ,ねこ
 Animals,,,bird,,鳥,,とり,とり
@@ -743,6 +755,10 @@ Weather & Nature,,,spring,,春,,はる,はる
 Weather & Nature,,,autumn/fall,,秋,,あき,あき
 Weather & Nature,,,winter,,冬,,ふゆ,ふゆ
 Weather & Nature,,,summer,,夏,,なつ,なつ
+Weather & Nature,,,star,,星,,ほし,ほし
+Weather & Nature,,,island,,島,,しま,しま
+Weather & Nature,,,pond,,池,,いけ,いけ
+Weather & Nature,,,earthquake,,地震,,じしん,じしん
 Adverbs & Frequency,Common adverbs of degree and frequency.,0 - Vocab,always,,いつも,,,
 Adverbs & Frequency,,,often,,よく,,,
 Adverbs & Frequency,,,usually,,たいてい,,,
@@ -801,6 +817,8 @@ Shopping & Money,,,sale (discount event),,セール,,,
 Shopping & Money,,,discount,,割引,,わりびき,わりびき
 Shopping & Money,,,money,,お金,,おかね,おかね
 Shopping & Money,,,stamp,,切手,,きって,きって
+Shopping & Money,,,sample tasting,,試食,,ししょく,ししょく
+Shopping & Money,,,return item,,返品,,へんぴん,へんぴん
 Technology & Communication,Essential vocabulary for modern digital life and communication.,0 - Vocab,internet,,インターネット,,,
 Technology & Communication,,,email,,メール,,,
 Technology & Communication,,,smartphone,,スマートフォン,,,
@@ -834,3 +852,6 @@ Emotions & Mental States,,,nervousness,,緊張,,きんちょう,きんちょう
 Emotions & Mental States,,,confidence,,自信,,じしん,じしん
 Emotions & Mental States,,,doubt,,疑い,,うたがい,うたがい
 Emotions & Mental States,,,stress,,ストレス,,,
+Emotions & Mental States,,,dream,,夢,,ゆめ,ゆめ
+Emotions & Mental States,,,secret,,秘密,,ひみつ,ひみつ
+Emotions & Mental States,,,habit,,習慣,,しゅうかん,しゅうかん
