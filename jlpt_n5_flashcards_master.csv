@@ -199,60 +199,60 @@ Food & Drink,,,alcohol; sake,,お酒,,おさけ,おさけ
 Food & Drink,,,breakfast,,朝ご飯,,あさごはん,あさごはん
 Food & Drink,,,lunch,,昼ご飯,,ひるごはん,ひるごはん
 Food & Drink,,,dinner,,晩ご飯,,ばんごはん,ばんごはん
-Basic Verbs,"The most fundamental verbs for beginners, presented in dictionary form.",0 - Vocab,to do,,する,,,
-Basic Verbs,,,to go,,行く,,,
-Basic Verbs,,,to come,,来る,,,
-Basic Verbs,,,to return (home),,帰る,,,
-Basic Verbs,,,to see; to watch,,見る,,,
-Basic Verbs,,,to listen; to hear,,聞く,,,
-Basic Verbs,,,to speak; to talk,,話す,,,
-Basic Verbs,,,to say,,言う,,,
-Basic Verbs,,,to eat,,食べる,,,
-Basic Verbs,,,to drink,,飲む,,,
-Basic Verbs,,,to buy,,買う,,,
-Basic Verbs,,,to sell,,売る,,,
-Basic Verbs,,,to write,,書く,,,
-Basic Verbs,,,to read,,読む,,,
-Basic Verbs,,,to meet,,会う,,,
-Basic Verbs,,,to play; to hang out,,遊ぶ,,,
-Basic Verbs,,,to make; to create,,作る,,,
-Basic Verbs,,,to use,,使う,,,
-Basic Verbs,,,to work,,働く,,,
-Basic Verbs,,,to rest; to take a break,,休む,,,
-Basic Verbs,,,to get up; to wake up,,起きる,,,
-Basic Verbs,,,to sleep; to go to bed,,寝る,,,
-Basic Verbs,,,to stand up,,立つ,,,
-Basic Verbs,,,to sit down,,座る,,,
-Basic Verbs,,,to run,,走る,,,
-Basic Verbs,,,to swim,,泳ぐ,,,
-Basic Verbs,,,to open (something),,開ける,,,
-Basic Verbs,,,to close (something),,閉める,,,
-Basic Verbs,,,to enter; to go into,,入る,,,
-Basic Verbs,,,to leave; to exit,,出る,,,
-Basic Verbs,,,to understand,,分かる,,,
-Basic Verbs,,,to give,,あげる,,,
-Basic Verbs,,,to receive,,もらう,,,
-Basic Verbs,,,to wait,,待つ,,,
-Basic Verbs,,,to take (a photo),,撮る,,,
-Basic Verbs,,,to forget,,忘れる,,,
-Basic Verbs,,,to know,,知る,,,
-Basic Verbs,,,to walk,,歩く,,,
-Basic Verbs,,,to teach/to tell,,教える,,,
-Basic Verbs,,,to learn/memorize,,覚える,,,
-Basic Verbs,,,to learn (from someone),,習う,,,
-Basic Verbs,,,to wash,,洗う,,,
-Basic Verbs,,,to cut,,切る,,,
-Basic Verbs,,,to put/place,,置く,,,
-Basic Verbs,,,to start/begin (transitive),,始める,,,
-Basic Verbs,,,to finish/end (intransitive),,終わる,,,
-Basic Verbs,,,to put in/insert,,入れる,,,
-Basic Verbs,,,to take out,,出す,,,
-Basic Verbs,,,to hold/carry,,持つ,,,
-Basic Verbs,,,to get on/ride,,乗る,,,
-Basic Verbs,,,to get off,,降りる,,,
-Basic Verbs,,,to open (intransitive),,開く,,,
-Basic Verbs,,,to close (intransitive),,閉まる,,,
-Basic Verbs,,,to live/reside,,住む,,,
+Basic Verbs,"The most fundamental verbs for beginners, presented in dictionary form.",0 - Vocab,to do,,する,Irregular verb; fundamental auxiliary,する,する
+Basic Verbs,,,to go,,行く,,いく,いく
+Basic Verbs,,,to come,,来る,Irregular verb,くる,くる
+Basic Verbs,,,to return (home),,帰る,,かえる,かえる
+Basic Verbs,,,to see; to watch,,見る,,みる,みる
+Basic Verbs,,,to listen; to hear,,聞く,,きく,きく
+Basic Verbs,,,to speak; to talk,,話す,,はなす,はなす
+Basic Verbs,,,to say,,言う,,いう,いう
+Basic Verbs,,,to eat,,食べる,,たべる,たべる
+Basic Verbs,,,to drink,,飲む,,のむ,のむ
+Basic Verbs,,,to buy,,買う,,かう,かう
+Basic Verbs,,,to sell,,売る,,うる,うる
+Basic Verbs,,,to write,,書く,,かく,かく
+Basic Verbs,,,to read,,読む,,よむ,よむ
+Basic Verbs,,,to meet,,会う,,あう,あう
+Basic Verbs,,,to play; to hang out,,遊ぶ,,あそぶ,あそぶ
+Basic Verbs,,,to make; to create,,作る,,つくる,つくる
+Basic Verbs,,,to use,,使う,,つかう,つかう
+Basic Verbs,,,to work,,働く,,はたらく,はたらく
+Basic Verbs,,,to rest; to take a break,,休む,,やすむ,やすむ
+Basic Verbs,,,to get up; to wake up,,起きる,,おきる,おきる
+Basic Verbs,,,to sleep; to go to bed,,寝る,,ねる,ねる
+Basic Verbs,,,to stand up,,立つ,,たつ,たつ
+Basic Verbs,,,to sit down,,座る,,すわる,すわる
+Basic Verbs,,,to run,,走る,,はしる,はしる
+Basic Verbs,,,to swim,,泳ぐ,,およぐ,およぐ
+Basic Verbs,,,to open (something),,開ける,Transitive,あける,あける
+Basic Verbs,,,to close (something),,閉める,Transitive,しめる,しめる
+Basic Verbs,,,to enter; to go into,,入る,,はいる,はいる
+Basic Verbs,,,to leave; to exit,,出る,,でる,でる
+Basic Verbs,,,to understand,,分かる,,わかる,わかる
+Basic Verbs,,,to give,,あげる,Used when giving to equals or juniors,あげる,あげる
+Basic Verbs,,,to receive,,もらう,,もらう,もらう
+Basic Verbs,,,to wait,,待つ,,まつ,まつ
+Basic Verbs,,,to take (a photo),,撮る,,とる,とる
+Basic Verbs,,,to forget,,忘れる,,わすれる,わすれる
+Basic Verbs,,,to know,,知る,State; often used as 知っている,しる,しる
+Basic Verbs,,,to walk,,歩く,,あるく,あるく
+Basic Verbs,,,to teach/to tell,,教える,,おしえる,おしえる
+Basic Verbs,,,to learn/memorize,,覚える,,おぼえる,おぼえる
+Basic Verbs,,,to learn (from someone),,習う,,ならう,ならう
+Basic Verbs,,,to wash,,洗う,,あらう,あらう
+Basic Verbs,,,to cut,,切る,,きる,きる
+Basic Verbs,,,to put/place,,置く,,おく,おく
+Basic Verbs,,,to start/begin (transitive),,始める,Transitive,はじめる,はじめる
+Basic Verbs,,,to finish/end (intransitive),,終わる,Intransitive,おわる,おわる
+Basic Verbs,,,to put in/insert,,入れる,Transitive,いれる,いれる
+Basic Verbs,,,to take out,,出す,Transitive,だす,だす
+Basic Verbs,,,to hold/carry,,持つ,,もつ,もつ
+Basic Verbs,,,to get on/ride,,乗る,,のる,のる
+Basic Verbs,,,to get off,,降りる,,おりる,おりる
+Basic Verbs,,,to open (intransitive),,開く,Intransitive,あく,あく
+Basic Verbs,,,to close (intransitive),,閉まる,Intransitive,しまる,しまる
+Basic Verbs,,,to live/reside,,住む,,すむ,すむ
 Basic Adjectives & Colors,Common adjectives and color words.,0 - Vocab,big; large,,大きい,,,
 Basic Adjectives & Colors,,,small; little,,小さい,,,
 Basic Adjectives & Colors,,,long,,長い,,,
