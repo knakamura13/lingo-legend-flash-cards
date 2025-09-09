@@ -1,0 +1,4 @@
+Topic Name (Required),Topic Description (Optional),Topic Type (Optional),Native Text (Required),Native Context Line (Optional),Translation Text (Required),Translation Context Line (Optional),Translation Hint (Optional),Pronunciation Override (Optional)
+Social,Description & type needed only for the first card in a topic,0 - Vocab,Thank you,,ありがとうございます,Formal,Arigato gozaimasu,
+Social,,,Goodbye,Casual,またね,,,
+Gaming,Description for the Gaming topic,2 - Phrases,Victory!,After winning a game,勝ち！,"Can also mean ""Win""",かち,
