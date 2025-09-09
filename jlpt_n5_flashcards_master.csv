@@ -142,43 +142,43 @@ Time & Date,,,minute,,分,Special reading; not ぶん,ふん,ふん
 Time & Date,,,half (past),,半,Used in time expressions like 三時半 (3:30),はん,はん
 Time & Date,,,AM (morning),,午前,,ごぜん,ごぜん
 Time & Date,,,PM (afternoon),,午後,,ごご,ごご
-Directions & Positions,Words for directions and relative positions.,0 - Vocab,up; above; on,,上,,,
-Directions & Positions,,,down; under; below,,下,,,
-Directions & Positions,,,left,,左,,,
-Directions & Positions,,,right,,右,,,
-Directions & Positions,,,front; before,,前,,,
-Directions & Positions,,,back; behind,,後ろ,,,
-Directions & Positions,,,inside; middle,,中,,, 
-Directions & Positions,,,outside,,外,,,
-Directions & Positions,,,next to; neighboring,,隣,,,
-Directions & Positions,,,near; nearby,,近く,,,
-Directions & Positions,,,far away,,遠く,,,
-Directions & Positions,,,east,,東,,,
-Directions & Positions,,,west,,西,,,
-Directions & Positions,,,south,,南,,,
-Directions & Positions,,,north,,北,,,
-Places & Transportation,Common locations and transportation terms.,0 - Vocab,train station,,駅,,,
-Places & Transportation,,,airport,,空港,,,
-Places & Transportation,,,hospital,,病院,,,
-Places & Transportation,,,bank,,銀行,,,
-Places & Transportation,,,post office,,郵便局,,,
-Places & Transportation,,,park,,公園,,,
-Places & Transportation,,,shop; store,,店,,,
-Places & Transportation,,,coffee shop; café,,喫茶店,,,
+Directions & Positions,Words for directions and relative positions.,0 - Vocab,up; above; on,,上,,うえ,うえ
+Directions & Positions,,,down; under; below,,下,,した,した
+Directions & Positions,,,left,,左,,ひだり,ひだり
+Directions & Positions,,,right,,右,,みぎ,みぎ
+Directions & Positions,,,front; before,,前,,まえ,まえ
+Directions & Positions,,,back; behind,,後ろ,,うしろ,うしろ
+Directions & Positions,,,inside; middle,,中,,なか,なか
+Directions & Positions,,,outside,,外,,そと,そと
+Directions & Positions,,,next to; neighboring,,隣,,となり,となり
+Directions & Positions,,,near; nearby,,近く,,ちかく,ちかく
+Directions & Positions,,,far away,,遠く,,とおく,とおく
+Directions & Positions,,,east,,東,,ひがし,ひがし
+Directions & Positions,,,west,,西,,にし,にし
+Directions & Positions,,,south,,南,,みなみ,みなみ
+Directions & Positions,,,north,,北,,きた,きた
+Places & Transportation,Common locations and transportation terms.,0 - Vocab,train station,,駅,,えき,えき
+Places & Transportation,,,airport,,空港,,くうこう,くうこう
+Places & Transportation,,,hospital,,病院,,びょういん,びょういん
+Places & Transportation,,,bank,,銀行,,ぎんこう,ぎんこう
+Places & Transportation,,,post office,,郵便局,,ゆうびんきょく,ゆうびんきょく
+Places & Transportation,,,park,,公園,,こうえん,こうえん
+Places & Transportation,,,shop; store,,店,,みせ,みせ
+Places & Transportation,,,coffee shop; café,,喫茶店,,きっさてん,きっさてん
 Places & Transportation,,,restaurant,,レストラン,,,
 Places & Transportation,,,department store,,デパート,,,
-Places & Transportation,,,movie theater,,映画館,,,
-Places & Transportation,,,town; city,,町,,,
-Places & Transportation,,,car; automobile,,車,,,
-Places & Transportation,,,bicycle,,自転車,,,
-Places & Transportation,,,train (electric),,電車,,,
+Places & Transportation,,,movie theater,,映画館,,えいがかん,えいがかん
+Places & Transportation,,,town; city,,町,,まち,まち
+Places & Transportation,,,car; automobile,,車,,くるま,くるま
+Places & Transportation,,,bicycle,,自転車,,じてんしゃ,じてんしゃ
+Places & Transportation,,,train (electric),,電車,,でんしゃ,でんしゃ
 Places & Transportation,,,bus,,バス,,,
-Places & Transportation,,,bus stop,,バス停,,,
+Places & Transportation,,,bus stop,,バス停,,バスてい,バスてい
 Places & Transportation,,,taxi,,タクシー,,,
-Places & Transportation,,,airplane,,飛行機,,,
-Places & Transportation,,,boat; ship,,船,,,
-Places & Transportation,,,road; way,,道,,,
-Places & Transportation,,,police box,,交番,,,
+Places & Transportation,,,airplane,,飛行機,,ひこうき,ひこうき
+Places & Transportation,,,boat; ship,,船,,ふね,ふね
+Places & Transportation,,,road; way,,道,,みち,みち
+Places & Transportation,,,police box,,交番,,こうばん,こうばん
 Places & Transportation,,,hotel,,ホテル,,,
 Food & Drink,"Common words for food, drinks, and meals.",0 - Vocab,cooked rice / meal,,ご飯,,,
 Food & Drink,,,bread,,パン,,,
