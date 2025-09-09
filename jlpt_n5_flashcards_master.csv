@@ -180,25 +180,25 @@ Places & Transportation,,,boat; ship,,船,,ふね,ふね
 Places & Transportation,,,road; way,,道,,みち,みち
 Places & Transportation,,,police box,,交番,,こうばん,こうばん
 Places & Transportation,,,hotel,,ホテル,,,
-Food & Drink,"Common words for food, drinks, and meals.",0 - Vocab,cooked rice / meal,,ご飯,,,
+Food & Drink,"Common words for food, drinks, and meals.",0 - Vocab,cooked rice / meal,,ご飯,,ごはん,ごはん
 Food & Drink,,,bread,,パン,,,
-Food & Drink,,,meat,,肉,,,
-Food & Drink,,,fish,,魚,,,
-Food & Drink,,,vegetable,,野菜,,,
-Food & Drink,,,fruit,,果物,,,
-Food & Drink,,,egg,,卵,,,
-Food & Drink,,,sugar,,砂糖,,,
-Food & Drink,,,salt,,塩,,,
-Food & Drink,,,soy sauce,,醤油,,,
-Food & Drink,,,water,,水,,,
-Food & Drink,,,tea,,お茶,,,
+Food & Drink,,,meat,,肉,,にく,にく
+Food & Drink,,,fish,,魚,,さかな,さかな
+Food & Drink,,,vegetable,,野菜,,やさい,やさい
+Food & Drink,,,fruit,,果物,,くだもの,くだもの
+Food & Drink,,,egg,,卵,,たまご,たまご
+Food & Drink,,,sugar,,砂糖,,さとう,さとう
+Food & Drink,,,salt,,塩,,しお,しお
+Food & Drink,,,soy sauce,,醤油,,しょうゆ,しょうゆ
+Food & Drink,,,water,,水,,みず,みず
+Food & Drink,,,tea,,お茶,,おちゃ,おちゃ
 Food & Drink,,,coffee,,コーヒー,,,
-Food & Drink,,,milk,,牛乳,,,
+Food & Drink,,,milk,,牛乳,,ぎゅうにゅう,ぎゅうにゅう
 Food & Drink,,,juice,,ジュース,,,
-Food & Drink,,,alcohol; sake,,お酒,,,
-Food & Drink,,,breakfast,,朝ご飯,,,
-Food & Drink,,,lunch,,昼ご飯,,,
-Food & Drink,,,dinner,,晩ご飯,,,
+Food & Drink,,,alcohol; sake,,お酒,,おさけ,おさけ
+Food & Drink,,,breakfast,,朝ご飯,,あさごはん,あさごはん
+Food & Drink,,,lunch,,昼ご飯,,ひるごはん,ひるごはん
+Food & Drink,,,dinner,,晩ご飯,,ばんごはん,ばんごはん
 Basic Verbs,"The most fundamental verbs for beginners, presented in dictionary form.",0 - Vocab,to do,,する,,,
 Basic Verbs,,,to go,,行く,,,
 Basic Verbs,,,to come,,来る,,,
