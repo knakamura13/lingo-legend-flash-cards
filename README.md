@@ -8,7 +8,7 @@ A collection of curated flashcard sets designed for the Lingo Legend language le
 
 - **[jlpt_n5_flashcards.csv](jlpt_n5_flashcards.csv)** - Complete JLPT N5 vocabulary and grammar collection
   - 24 topic categories covering all essential N5 content
-  - 550+ flashcard entries with comprehensive kanji readings
+  - 850+ flashcard entries with comprehensive kanji readings
   - Includes vocabulary, basic grammar patterns, counters, and cultural context
 
 ## Official Template
@@ -18,6 +18,11 @@ The official Lingo Legend template is included at **[lingo_legend_official_flash
 ### CSV Structure
 
 **Format**: `Topic Name, Topic Description, Topic Type, Native Text, Native Context Line, Translation Text, Translation Context Line, Translation Hint, Pronunciation Override`
+
+### App Constraints
+
+- **Topics**: Unlimited number of topics (unique Topic Name values) allowed
+- **Cards per Topic**: Maximum of 100 cards per topic (Lingo Legend app limitation)
 
 **Field Descriptions:**
 
@@ -29,7 +34,7 @@ The official Lingo Legend template is included at **[lingo_legend_official_flash
 - **Translation Text** (Required) = Translation in target language.
 - **Translation Context Line** (Optional) = Short examples or usage notes, when necessary.
 - **Translation Hint** (Optional) = Phonetic guide or pronunciation aid for the translation text (e.g., hiragana readings for Japanese kanji).
-- **Pronunciation Override** (Optional) = Alternative pronunciation guide when the translation text has multiple possible readings (e.g., kanji with multiple common pronunciations).
+- **Pronunciation Override** (Optional) = Specifies how the app's TTS (text-to-speech) should pronounce the Translation Text field (e.g., romanization or kana for Japanese, phonetic spelling for other languages).
 
 ## Language-Specific Guidelines
 
