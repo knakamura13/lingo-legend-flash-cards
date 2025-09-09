@@ -62,6 +62,10 @@ People & Family,,,man,,男の人,,おとこのひと,おとこのひと
 People & Family,,,woman,,女の人,,おんなのひと,おんなのひと
 People & Family,,,student,,学生,,がくせい,がくせい
 People & Family,,,teacher,,先生,,せんせい,せんせい
+People & Family,,,doctor,,医者,,いしゃ,いしゃ
+People & Family,,,nurse,,看護師,,かんごし,かんごし
+People & Family,,,shop clerk,,店員,,てんいん,てんいん
+People & Family,,,police officer,,警察官,,けいさつかん,けいさつかん
 People & Family,,,friend,,友達,,ともだち,ともだち
 People & Family,,,family,,家族,,かぞく,かぞく
 People & Family,,,father,,お父さん,Respectful/polite form for others' fathers,おとうさん,おとうさん
@@ -148,6 +152,15 @@ Time & Date,,,minute,,分,Special reading; not ぶん,ふん,ふん
 Time & Date,,,half (past),,半,Used in time expressions like 三時半 (3:30),はん,はん
 Time & Date,,,AM (morning),,午前,,ごぜん,ごぜん
 Time & Date,,,PM (afternoon),,午後,,ごご,ごご
+Time & Date,,,schedule; plan,,予定,,よてい,よてい
+Time & Date,,,alarm clock,,目覚まし時計,,めざましどけい,めざましどけい
+Time & Date,,,calendar,,カレンダー,,,
+Time & Date,,,appointment,,約束,,やくそく,やくそく
+Time & Date,,,deadline,,締切,,しめきり,しめきり
+Time & Date,,,break time,,休憩時間,,きゅうけいじかん,きゅうけいじかん
+Time & Date,,,overtime,,残業,,ざんぎょう,ざんぎょう
+Time & Date,,,holiday,,休日,,きゅうじつ,きゅうじつ
+Time & Date,,,vacation,,休暇,,きゅうか,きゅうか
 Directions & Positions,Words for directions and relative positions.,0 - Vocab,up; above; on,,上,,うえ,うえ
 Directions & Positions,,,down; under; below,,下,,した,した
 Directions & Positions,,,left,,左,,ひだり,ひだり
@@ -186,6 +199,18 @@ Places & Transportation,,,boat; ship,,船,,ふね,ふね
 Places & Transportation,,,road; way,,道,,みち,みち
 Places & Transportation,,,police box,,交番,,こうばん,こうばん
 Places & Transportation,,,hotel,,ホテル,,,
+Places & Transportation,,,convenience store,,コンビニ,,,
+Places & Transportation,,,gym,,ジム,,,
+Places & Transportation,,,pharmacy,,薬局,,やっきょく,やっきょく
+Places & Transportation,,,gas station,,ガソリンスタンド,,,
+Places & Transportation,,,bridge,,橋,,はし,はし
+Places & Transportation,,,intersection,,交差点,,こうさてん,こうさてん
+Places & Transportation,,,platform,,ホーム,,,
+Places & Transportation,,,ticket,,切符,,きっぷ,きっぷ
+Places & Transportation,,,seat,,席,,せき,せき
+Places & Transportation,,,fare,,運賃,,うんちん,うんちん
+Places & Transportation,,,entrance,,入口,,いりぐち,いりぐち
+Places & Transportation,,,exit,,出口,,でぐち,でぐち
 Food & Drink,"Common words for food, drinks, and meals.",0 - Vocab,cooked rice / meal,,ご飯,,ごはん,ごはん
 Food & Drink,,,bread,,パン,,,
 Food & Drink,,,meat,,肉,,にく,にく
@@ -205,6 +230,21 @@ Food & Drink,,,alcohol; sake,,お酒,,おさけ,おさけ
 Food & Drink,,,breakfast,,朝ご飯,,あさごはん,あさごはん
 Food & Drink,,,lunch,,昼ご飯,,ひるごはん,ひるごはん
 Food & Drink,,,dinner,,晩ご飯,,ばんごはん,ばんごはん
+Food & Drink,,,ramen,,ラーメン,,,
+Food & Drink,,,sushi,,寿司,,すし,すし
+Food & Drink,,,rice ball,,おにぎり,,,
+Food & Drink,,,noodles,,麺,,めん,めん
+Food & Drink,,,tempura,,天ぷら,,てんぷら,てんぷら
+Food & Drink,,,curry,,カレー,,,
+Food & Drink,,,salad,,サラダ,,,
+Food & Drink,,,soup,,スープ,,,
+Food & Drink,,,dessert,,デザート,,,
+Food & Drink,,,cake,,ケーキ,,,
+Food & Drink,,,ice cream,,アイスクリーム,,,
+Food & Drink,,,butter,,バター,,,
+Food & Drink,,,cheese,,チーズ,,,
+Food & Drink,,,yogurt,,ヨーグルト,,,
+Food & Drink,,,snacks,,お菓子,,おかし,おかし
 Basic Verbs,"The most fundamental verbs for beginners, presented in dictionary form.",0 - Vocab,to do,,する,Irregular verb; fundamental auxiliary,する,する
 Basic Verbs,,,to go,,行く,,いく,いく
 Basic Verbs,,,to come,,来る,Irregular verb,くる,くる
@@ -314,6 +354,16 @@ Basic Adjectives & Colors,,,important; precious,,大切,Na-adjective,たいせ�
 Basic Adjectives & Colors,,,necessary; needed,,必要,Na-adjective,ひつよう,ひつよう
 Basic Adjectives & Colors,,,normal; ordinary,,普通,Na-adjective,ふつう,ふつう
 Basic Adjectives & Colors,,,special,,特別,Na-adjective,とくべつ,とくべつ
+Basic Adjectives & Colors,,,happy,,嬉しい,,うれしい,うれしい
+Basic Adjectives & Colors,,,sad,,悲しい,,かなしい,かなしい
+Basic Adjectives & Colors,,,angry,,怒った,,おこった,おこった
+Basic Adjectives & Colors,,,worried,,心配,,しんぱい,しんぱい
+Basic Adjectives & Colors,,,surprised,,びっくりした,,,
+Basic Adjectives & Colors,,,excited,,興奮した,,こうふんした,こうふんした
+Basic Adjectives & Colors,,,tired,,疲れた,,つかれた,つかれた
+Basic Adjectives & Colors,,,sleepy,,眠い,,ねむい,ねむい
+Basic Adjectives & Colors,,,hungry,,お腹がすいた,,おなかがすいた,おなかがすいた
+Basic Adjectives & Colors,,,thirsty,,のどが渇いた,,のどがかわいた,のどがかわいた
 Grammar & Particles,The building blocks of Japanese sentences. These particles mark the function of words.,1 - Grammar,topic marker,,は,,,
 Grammar & Particles,,,subject marker,,が,,,
 Grammar & Particles,,,object marker,,を,,,
@@ -410,6 +460,22 @@ Kanji Basics,,,Buy,,買,Common readings: か、ばい,,
 Kanji Basics,,,Work; Move,,動,Common readings: どう、うご,,
 Kanji Basics,,,New,,新,Common readings: しん、あたら,,
 Kanji Basics,,,Old,,古,Common readings: こ、ふる,,
+Kanji Basics,,,Way; Road,,道,Common readings: どう、みち,,
+Kanji Basics,,,Enter,,入,Common readings: いり、にゅう、はい,,
+Kanji Basics,,,Friend,,友,Common readings: とも、ゆう,,
+Kanji Basics,,,Hand,,手,Common readings: て、しゅ,,
+Kanji Basics,,,Foot; Leg,,足,Common readings: あし、そく,,
+Kanji Basics,,,Eye,,目,Common readings: め、もく,,
+Kanji Basics,,,Mouth,,口,Common readings: くち、こう,,
+Kanji Basics,,,Body,,体,Common readings: からだ、たい,,
+Kanji Basics,,,House; Home,,家,Common readings: いえ、か、うち,,
+Kanji Basics,,,Stand,,立,Common readings: たつ、りつ,,
+Kanji Basics,,,Mountain,,山,Common readings: やま、さん,,
+Kanji Basics,,,Sea; Ocean,,海,Common readings: うみ、かい,,
+Kanji Basics,,,Sky; Empty,,空,Common readings: そら、くう、から,,
+Kanji Basics,,,Flower,,花,Common readings: はな、か,,
+Kanji Basics,,,Fish,,魚,Common readings: さかな、ぎょ,,
+Kanji Basics,,,Early; Fast,,早,Common readings: はやい、そう,,
 Basic Grammar Patterns,Essential N5 grammar constructions with examples.,1 - Grammar,Verb polite present (〜ます),,〜ます,,,
 Basic Grammar Patterns,,,Verb polite negative (〜ません),,〜ません,,,
 Basic Grammar Patterns,,,Verb polite past (〜ました),,〜ました,,,
@@ -452,7 +518,23 @@ Body & Health,,,stomach; belly,,お腹,,おなか,おなか
 Body & Health,,,tooth,,歯,,は,は
 Body & Health,,,illness; sickness,,病気,,びょうき,びょうき
 Body & Health,,,medicine,,薬,,くすり,くすり
+Body & Health,,,common cold,,風邪,,かぜ,かぜ
 Body & Health,,,painful; hurts,,痛い,,いたい,いたい
+Body & Health,,,nose,,鼻,,はな,はな
+Body & Health,,,neck,,首,,くび,くび
+Body & Health,,,back,,背中,,せなか,せなか
+Body & Health,,,shoulder,,肩,,かた,かた
+Body & Health,,,knee,,膝,,ひざ,ひざ
+Body & Health,,,finger,,指,,ゆび,ゆび
+Body & Health,,,toe,,足の指,,あしのゆび,あしのゆび
+Body & Health,,,throat,,のど,,,
+Body & Health,,,chest,,胸,,むね,むね
+Body & Health,,,arm,,腕,,うで,うで
+Body & Health,,,skin,,肌,,はだ,はだ
+Body & Health,,,hair,,髪,,かみ,かみ
+Body & Health,,,blood,,血,,ち,ち
+Body & Health,,,bone,,骨,,ほね,ほね
+Body & Health,,,fever,,熱,,ねつ,ねつ
 Clothing & Personal Items,Basic clothing items and personal belongings.,0 - Vocab,clothes,,服,,ふく,ふく
 Clothing & Personal Items,,,shirt,,シャツ,,,
 Clothing & Personal Items,,,pants; trousers,,ズボン,,,
@@ -466,6 +548,16 @@ Clothing & Personal Items,,,bag; briefcase,,鞄,,かばん,かばん
 Clothing & Personal Items,,,umbrella,,傘,,かさ,かさ
 Clothing & Personal Items,,,key,,鍵,,かぎ,かぎ
 Clothing & Personal Items,,,wallet,,財布,,さいふ,さいふ
+Clothing & Personal Items,,,sweater,,セーター,,,
+Clothing & Personal Items,,,jacket,,ジャケット,,,
+Clothing & Personal Items,,,dress,,ドレス,,,
+Clothing & Personal Items,,,watch,,時計,,とけい,とけい
+Clothing & Personal Items,,,jewelry,,アクセサリー,,,
+Clothing & Personal Items,,,backpack,,リュック,,,
+Clothing & Personal Items,,,phone,,電話,,でんわ,でんわ
+Clothing & Personal Items,,,computer,,パソコン,,,
+Clothing & Personal Items,,,tablet,,タブレット,,,
+Clothing & Personal Items,,,camera,,カメラ,,,
 Home & Household,Household items and rooms in a home.,0 - Vocab,house; home,,家,,いえ,いえ
 Home & Household,,,room,,部屋,,へや,へや
 Home & Household,,,kitchen,,台所,,だいどころ,だいどころ
@@ -502,6 +594,21 @@ School & Office,,,company; firm,,会社,,かいしゃ,かいしゃ
 School & Office,,,company employee,,社員,,しゃいん,しゃいん
 School & Office,,,meeting; conference,,会議,,かいぎ,かいぎ
 School & Office,,,job; work,,仕事,,しごと,しごと
+School & Office,,,pencil,,鉛筆,,えんぴつ,えんぴつ
+School & Office,,,eraser,,消しゴム,,けしゴム,けしゴム
+School & Office,,,desk,,机,,つくえ,つくえ
+School & Office,,,chair,,椅子,,いす,いす
+School & Office,,,notebook,,ノート,,,
+School & Office,,,textbook,,教科書,,きょうかしょ,きょうかしょ
+School & Office,,,paper,,紙,,かみ,かみ
+School & Office,,,pen,,ペン,,,
+School & Office,,,ruler,,定規,,じょうぎ,じょうぎ
+School & Office,,,scissors,,はさみ,,,
+School & Office,,,dictionary,,辞書,,じしょ,じしょ
+School & Office,,,marker,,マーカー,,,
+School & Office,,,calculator,,電卓,,でんたく,でんたく
+School & Office,,,folder,,ファイル,,,
+School & Office,,,whiteboard,,ホワイトボード,,,
 Question Words,Core interrogatives for basic questions.,0 - Vocab,what,,何,,なに、なん,なに、なん
 Question Words,,,who,,誰,,だれ,だれ
 Question Words,,,when,,いつ,,,
@@ -530,6 +637,14 @@ Counters,,,days (duration/date),,〜日,Day(s) or day of month; Common readings:
 Counters,,,weeks (duration),,〜週間,Number of weeks,しゅうかん,しゅうかん
 Counters,,,small items (generic),,〜個,Generic small item counter,こ,こ
 Counters,,,yen (price),,〜円,Price counter,えん,えん
+Counters,,,cups/glasses,,〜杯,,〜はい,〜はい
+Counters,,,bottles,,〜本,,〜ほん,〜ほん
+Counters,,,pairs,,〜足,,〜そく,〜そく
+Counters,,,slices,,〜切れ,,〜きれ,〜きれ
+Counters,,,minutes (duration),,〜分間,,〜ふんかん,〜ふんかん
+Counters,,,seconds,,〜秒,,〜びょう,〜びょう
+Counters,,,degrees (angle),,〜度,,〜ど,〜ど
+Counters,,,times/occurrences,,〜度,,〜ど,〜ど
 Animals,Common animals and related words.,0 - Vocab,dog,,犬,,いぬ,いぬ
 Animals,,,cat,,猫,,ねこ,ねこ
 Animals,,,bird,,鳥,,とり,とり
@@ -540,6 +655,13 @@ Animals,,,pig,,豚,,ぶた,ぶた
 Animals,,,chicken,,鶏,,にわとり,にわとり
 Animals,,,insect/bug,,虫,,むし,むし
 Animals,,,animal,,動物,,どうぶつ,どうぶつ
+Animals,,,monkey,,猿,,さる,さる
+Animals,,,bear,,熊,,くま,くま
+Animals,,,lion,,ライオン,,,
+Animals,,,elephant,,象,,ぞう,ぞう
+Animals,,,mouse,,ネズミ,,,
+Animals,,,snake,,蛇,,へび,へび
+Animals,,,frog,,カエル,,,
 Weather & Nature,Weather and basic nature vocabulary.,0 - Vocab,weather,,天気,,てんき,てんき
 Weather & Nature,,,sunny/clear,,晴れ,,はれ,はれ
 Weather & Nature,,,cloudy,,曇り,,くもり,くもり
@@ -552,6 +674,15 @@ Weather & Nature,,,river,,川,,かわ,かわ
 Weather & Nature,,,sea/ocean,,海,,うみ,うみ
 Weather & Nature,,,forest,,森,,もり,もり
 Weather & Nature,,,flower,,花,,はな,はな
+Weather & Nature,,,humid,,湿った,,しめった,しめった
+Weather & Nature,,,forecast,,天気予報,,てんきよほう,てんきよほう
+Weather & Nature,,,temperature,,気温,,きおん,きおん
+Weather & Nature,,,degrees,,度,,ど,ど
+Weather & Nature,,,season,,季節,,きせつ,きせつ
+Weather & Nature,,,spring,,春,,はる,はる
+Weather & Nature,,,autumn/fall,,秋,,あき,あき
+Weather & Nature,,,winter,,冬,,ふゆ,ふゆ
+Weather & Nature,,,summer,,夏,,なつ,なつ
 Adverbs & Frequency,Common adverbs of degree and frequency.,0 - Vocab,always,,いつも,,,
 Adverbs & Frequency,,,often,,よく,,,
 Adverbs & Frequency,,,usually,,たいてい,,,
@@ -567,20 +698,32 @@ Adverbs & Frequency,,,not much (with negative),,あまり,,,
 Adverbs & Frequency,,,not at all (with negative),,全然,,ぜんぜん,ぜんぜん
 Adverbs & Frequency,,,but; however,,でも,,,
 Adverbs & Frequency,,,however; but,,しかし,,,
+Adverbs & Frequency,,,therefore; so,,だから,,,
+Adverbs & Frequency,,,and then; so,,それで,,,
 Adverbs & Frequency,,,oneself,,自分,,じぶん,じぶん
 Adverbs & Frequency,,,if,,もし,,,
 Adverbs & Frequency,,,for example,,例えば,,たとえば,たとえば
+Adverbs & Frequency,,,all; everything,,全部,,ぜんぶ,ぜんぶ
+Adverbs & Frequency,,,nothing,,何も,,なにも,なにも
+Adverbs & Frequency,,,no one,,誰も,,だれも,だれも
 Hobbies & Leisure,Everyday hobbies and leisure activities.,0 - Vocab,movie,,映画,,えいが,えいが
 Hobbies & Leisure,,,music,,音楽,,おんがく,おんがく
 Hobbies & Leisure,,,reading,,読書,,どくしょ,どくしょ
 Hobbies & Leisure,,,travel,,旅行,,りょこう,りょこう
 Hobbies & Leisure,,,sports,,スポーツ,,,
+Hobbies & Leisure,,,tennis,,テニス,,,
+Hobbies & Leisure,,,baseball,,野球,,やきゅう,やきゅう
+Hobbies & Leisure,,,soccer,,サッカー,,,
+Hobbies & Leisure,,,basketball,,バスケットボール,,,
 Hobbies & Leisure,,,walk/stroll,,散歩,,さんぽ,さんぽ
 Hobbies & Leisure,,,cooking,,料理,,りょうり,りょうり
 Hobbies & Leisure,,,photography/photo,,写真,,しゃしん,しゃしん
 Hobbies & Leisure,,,video game(s),,ゲーム,,,
 Hobbies & Leisure,,,karaoke,,カラオケ,,,
 Hobbies & Leisure,,,shopping,,買い物,,かいもの,かいもの
+Hobbies & Leisure,,,laundry,,洗濯,,せんたく,せんたく
+Hobbies & Leisure,,,cleaning,,掃除,,そうじ,そうじ
+Hobbies & Leisure,,,exercise,,運動,,うんどう,うんどう
 Shopping & Money,Core shopping and payment vocabulary.,0 - Vocab,price,,値段,,ねだん,ねだん
 Shopping & Money,,,cash register,,レジ,,,
 Shopping & Money,,,change (money),,お釣り,,おつり,おつり
@@ -592,3 +735,45 @@ Shopping & Money,,,size,,サイズ,,,
 Shopping & Money,,,sales floor/section,,売り場,,うりば,うりば
 Shopping & Money,,,sale (discount event),,セール,,,
 Shopping & Money,,,discount,,割引,,わりびき,わりびき
+Shopping & Money,,,money,,お金,,おかね,おかね
+Shopping & Money,,,stamp,,切手,,きって,きって
+Technology & Communication,Essential vocabulary for modern digital life and communication.,0 - Vocab,internet,,インターネット,,,
+Technology & Communication,,,email,,メール,,,
+Technology & Communication,,,website,,ウェブサイト,,,
+Technology & Communication,,,smartphone,,スマートフォン,,,
+Technology & Communication,,,app,,アプリ,,,
+Technology & Communication,,,WiFi,,ワイファイ,,,
+Technology & Communication,,,password,,パスワード,,,
+Technology & Communication,,,download,,ダウンロード,,,
+Technology & Communication,,,upload,,アップロード,,,
+Technology & Communication,,,file,,ファイル,,,
+Technology & Communication,,,save,,保存,,ほぞん,ほぞん
+Technology & Communication,,,print,,印刷,,いんさつ,いんさつ
+Technology & Communication,,,message,,メッセージ,,,
+Technology & Communication,,,call,,電話をかける,,でんわをかける,でんわをかける
+Technology & Communication,,,battery,,バッテリー,,,
+Daily Activities & Routines,Common daily actions and routines for everyday life.,0 - Vocab,brush teeth,,歯を磨く,,はをみがく,はをみがく
+Daily Activities & Routines,,,take shower,,シャワーを浴びる,,シャワーをあびる,シャワーをあびる
+Daily Activities & Routines,,,get dressed,,服を着る,,ふくをきる,ふくをきる
+Daily Activities & Routines,,,have breakfast,,朝食を食べる,,ちょうしょくをたべる,ちょうしょくをたべる
+Daily Activities & Routines,,,commute,,通勤する,,つうきんする,つうきんする
+Daily Activities & Routines,,,attend class,,授業に出る,,じゅぎょうにでる,じゅぎょうにでる
+Daily Activities & Routines,,,do homework,,宿題をする,,しゅくだいをする,しゅくだいをする
+Daily Activities & Routines,,,relax,,リラックスする,,,
+Daily Activities & Routines,,,watch TV,,テレビを見る,,テレビをみる,テレビをみる
+Daily Activities & Routines,,,clean room,,部屋を掃除する,,へやをそうじする,へやをそうじする
+Daily Activities & Routines,,,cook,,料理する,,りょうりする,りょうりする
+Daily Activities & Routines,,,take a bath,,お風呂に入る,,おふろにはいる,おふろにはいる
+Daily Activities & Routines,,,study,,勉強する,,べんきょうする,べんきょうする
+Daily Activities & Routines,,,shop,,買い物をする,,かいものをする,かいものをする
+Daily Activities & Routines,,,drive,,運転する,,うんてんする,うんてんする
+Emotions & Mental States,Basic feelings and psychological states for expressing emotions.,0 - Vocab,love,,愛,,あい,あい
+Emotions & Mental States,,,hate,,嫌い,,きらい,きらい
+Emotions & Mental States,,,fear,,恐れ,,おそれ,おそれ
+Emotions & Mental States,,,hope,,希望,,きぼう,きぼう
+Emotions & Mental States,,,anger,,怒り,,いかり,いかり
+Emotions & Mental States,,,joy,,喜び,,よろこび,よろこび
+Emotions & Mental States,,,nervousness,,緊張,,きんちょう,きんちょう
+Emotions & Mental States,,,confidence,,自信,,じしん,じしん
+Emotions & Mental States,,,doubt,,疑い,,うたがい,うたがい
+Emotions & Mental States,,,stress,,ストレス,,,
