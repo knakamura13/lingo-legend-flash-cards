@@ -438,42 +438,42 @@ Clothing & Personal Items,,,bag; briefcase,,鞄,,かばん,かばん
 Clothing & Personal Items,,,umbrella,,傘,,かさ,かさ
 Clothing & Personal Items,,,key,,鍵,,かぎ,かぎ
 Clothing & Personal Items,,,wallet,,財布,,さいふ,さいふ
-Home & Household,Household items and rooms in a home.,0 - Vocab,house; home,,家,,,
-Home & Household,,,room,,部屋,,,
-Home & Household,,,kitchen,,台所,,,
-Home & Household,,,restroom; toilet (polite),,お手洗い,,,
-Home & Household,,,bath; bathtub,,風呂,,,
-Home & Household,,,stairs,,階段,,,
-Home & Household,,,ceiling,,天井,,,
-Home & Household,,,floor,,床,,,
-Home & Household,,,wall,,壁,,,
-Home & Household,,,garden; yard,,庭,,,
+Home & Household,Household items and rooms in a home.,0 - Vocab,house; home,,家,,いえ,いえ
+Home & Household,,,room,,部屋,,へや,へや
+Home & Household,,,kitchen,,台所,,だいどころ,だいどころ
+Home & Household,,,restroom; toilet (polite),,お手洗い,,おてあらい,おてあらい
+Home & Household,,,bath; bathtub,,風呂,,ふろ,ふろ
+Home & Household,,,stairs,,階段,,かいだん,かいだん
+Home & Household,,,ceiling,,天井,,てんじょう,てんじょう
+Home & Household,,,floor,,床,,ゆか,ゆか
+Home & Household,,,wall,,壁,,かべ,かべ
+Home & Household,,,garden; yard,,庭,,にわ,にわ
 Home & Household,,,television,,テレビ,,,
 Home & Household,,,radio,,ラジオ,,,
-Home & Household,,,electricity; (electric) light,,電気,,,
-Home & Household,,,refrigerator,,冷蔵庫,,,
-Home & Household,,,dishes; tableware,,食器,,,
-Home & Household,,,plate; dish,,皿,,,
-Home & Household,,,chopsticks,,箸,,,
+Home & Household,,,electricity; (electric) light,,電気,,でんき,でんき
+Home & Household,,,refrigerator,,冷蔵庫,,れいぞうこ,れいぞうこ
+Home & Household,,,dishes; tableware,,食器,,しょっき,しょっき
+Home & Household,,,plate; dish,,皿,,さら,さら
+Home & Household,,,chopsticks,,箸,,はし,はし
 Home & Household,,,spoon,,スプーン,,,
 Home & Household,,,fork,,フォーク,,,
 Home & Household,,,knife,,ナイフ,,,
-Home & Household,,,pot; pan,,鍋,,,
-Home & Household,,,mirror,,鏡,,,
+Home & Household,,,pot; pan,,鍋,,なべ,なべ
+Home & Household,,,mirror,,鏡,,かがみ,かがみ
 Home & Household,,,towel,,タオル,,,
-School & Office,Words related to school, work, and places in those settings.,,school,,,
-School & Office,,,classroom,,教室,,,
-School & Office,,,blackboard,,黒板,,,
-School & Office,,,pupil; student (K-12),,生徒,,,
-School & Office,,,class; lesson,,授業,,,
-School & Office,,,exam; test,,試験,,,
-School & Office,,,homework,,宿題,,,
-School & Office,,,library,,図書館,,,
-School & Office,,,cafeteria; dining hall,,食堂,,,
-School & Office,,,company; firm,,会社,,,
-School & Office,,,company employee,,社員,,,
-School & Office,,,meeting; conference,,会議,,,
-School & Office,,,job; work,,仕事,,,
+School & Office,Words related to school, work, and places in those settings.,0 - Vocab,school,,学校,,がっこう,がっこう
+School & Office,,,classroom,,教室,,きょうしつ,きょうしつ
+School & Office,,,blackboard,,黒板,,こくばん,こくばん
+School & Office,,,pupil; student (K-12),,生徒,,せいと,せいと
+School & Office,,,class; lesson,,授業,,じゅぎょう,じゅぎょう
+School & Office,,,exam; test,,試験,,しけん,しけん
+School & Office,,,homework,,宿題,,しゅくだい,しゅくだい
+School & Office,,,library,,図書館,,としょかん,としょかん
+School & Office,,,cafeteria; dining hall,,食堂,,しょくどう,しょくどう
+School & Office,,,company; firm,,会社,,かいしゃ,かいしゃ
+School & Office,,,company employee,,社員,,しゃいん,しゃいん
+School & Office,,,meeting; conference,,会議,,かいぎ,かいぎ
+School & Office,,,job; work,,仕事,,しごと,しごと
 Question Words,Core interrogatives for basic questions.,0 - Vocab,what,,何,,,
 Question Words,,,who,,誰,,,
 Question Words,,,when,,いつ,,,
@@ -481,7 +481,7 @@ Question Words,,,why,,どうして,,,
 Question Words,,,how many,,いくつ,,,
 Question Words,,,how much,,いくら,,,
 Question Words,,,which kind,,どんな,,,
-Question Words,,,how much/how long (approx),,どのくらい/どれくらい,,,
+Question Words,,,how much/how long (approx),,どのくらい/どれくらい,,どのくらい,どのくらい
 Counters,Common counters used at N5 level.,0 - Vocab,general counter (1–10),,〜つ,Native 1–10 counter,,
 Counters,,,long thin objects,,〜本,For bottles/pens etc.,,
 Counters,,,flat objects,,〜枚,For paper/plates etc.,,
